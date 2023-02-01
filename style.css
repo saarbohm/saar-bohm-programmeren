@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(242, 150, 197);
+}
+
+.logo {
+ margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 40%;
+}
+
+.cupcake {
+    margin-left: 15%;
+   margin-top: 5%;
+}
+
+
+.klantbon {
+    margin: 10%;
+    margin-top: 20px;
+    margin-bottom: 40%;
+    background-color: rgb(255, 25, 209);
+    padding: 15px;
+   font-size: 3em;
+    border-radius: 40px;
+    color: white;
+    text-align: center;
+}
+
+
+
+.bakkerij {
+    display: flex;
+}
+
+.row {
+    display: flex;
+    margin-left: 15px;
+}
+
